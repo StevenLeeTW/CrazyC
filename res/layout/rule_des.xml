@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/totalview"
+    android:orientation="vertical" >
+
+        <ScrollView
+            android:id="@+id/scrollView1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" 
+            android:layout_gravity="center"   >
+ 		
+           <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/ruletext1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_marginTop="20dp"
+                android:text="1.普通卡有四種花色，每種花色皆有0～9的數字，效果卡的部份請參照Card Effect頁面"
+                android:textSize="20sp" />
+
+              <TextView
+                  android:id="@+id/ruletext2"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:layout_gravity="center"
+                  android:layout_marginLeft="20dp"
+                  android:layout_marginRight="20dp"
+                  android:layout_marginTop="10dp"
+                  android:text="2.開局時，四家會個有基本分數100分，每家都會被發給六張牌。手牌上限為六張"
+                  android:textSize="20sp" />
+
+              <TextView
+                  android:id="@+id/ruletext3"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:layout_gravity="center"
+                  android:layout_marginLeft="20dp"
+                  android:layout_marginRight="20dp"
+                  android:layout_marginTop="10dp"
+                  android:text="3.開局時可出任一張普通卡，其後只能出與上一位玩家所出的牌一樣的花色或點數或任意效果卡來出牌，若上一位出的是效果卡，則可以出任一張普通/效果卡。"
+                  android:textSize="20sp" />
+
+              <TextView
+                  android:id="@+id/ruletext4"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:layout_gravity="center"
+                  android:layout_marginLeft="20dp"
+                  android:layout_marginRight="20dp"
+                  android:layout_marginTop="10dp"
+                  android:text="4.當手上無牌可出時，必須按下PASS，按下PASS後會被扣分，若手牌未滿六張，則需要補抽一張。"
+                  android:textSize="20sp" />
+
+               <TextView
+            android:id="@+id/ruletext5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+             android:layout_gravity="center"  
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:text="5.每場遊戲有四輪，每一輪有15回合，回合算法是由出牌次數來計算，每累計四次出牌（不限同一人）算一回合，當15回合結束時，即結束一輪"
+            android:textSize="20sp" />
+			  <TextView
+            android:id="@+id/ruletext6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+             android:layout_gravity="center"  
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:text="6.完成四輪遊戲才能決定勝負，四輪累計的總成績為判斷勝負的依據。"
+            android:textSize="20sp" />
+			   
+        	</LinearLayout>
+        </ScrollView>
+
+        
+       
+
+</RelativeLayout>

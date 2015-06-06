@@ -1,0 +1,91 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/homepage22"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".OptionControl" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:text="MIDI is from Green Tone http://greentone.ina-ka.com/midi.html"
+        android:textSize="10sp" />
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/textView1"
+        android:layout_centerHorizontal="true"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:id="@+id/image15615615677"
+            android:layout_width="62dp"
+            android:layout_height="62dp"
+            android:layout_gravity="center"
+            android:src="@drawable/soundop" />
+
+        <LinearLayout
+            android:id="@+id/lineardes56554484"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <ImageButton
+                android:id="@+id/bturnon"
+                android:layout_width="55dp"
+                android:layout_height="45dp"
+                android:layout_marginRight="20dp"
+                android:background="@drawable/on" />
+
+            <ImageButton
+                android:id="@+id/bturnoff"
+                android:layout_width="55dp"
+                android:layout_height="45dp"
+                android:background="@drawable/off" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/linearLayout1"
+        android:layout_alignLeft="@+id/linearLayout1"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:id="@+id/image158677"
+            android:layout_width="62dp"
+            android:layout_height="62dp"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:src="@drawable/mode" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <ImageButton
+                android:id="@+id/hardmode"
+                android:layout_width="55dp"
+                android:layout_height="45dp"
+                android:background="@drawable/hard" />
+
+            <ImageButton
+                android:id="@+id/easymode"
+                android:layout_width="55dp"
+                android:layout_height="45dp"
+                android:layout_marginLeft="20dp"
+                android:background="@drawable/easy" />
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>

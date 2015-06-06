@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/helpbg"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/ll58585858"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true" >
+
+        <ImageView
+            android:id="@+id/tempcardeffect"
+            android:layout_width="62dp"
+            android:layout_height="62dp"
+            android:src="@drawable/bcardeffect" />
+
+        <ImageView
+            android:id="@+id/temprule"
+            android:layout_width="62dp"
+            android:layout_height="62dp"
+            android:layout_marginLeft="20dp"
+            android:src="@drawable/brule" />
+
+    </LinearLayout>
+
+</RelativeLayout>

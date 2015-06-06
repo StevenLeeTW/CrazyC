@@ -1,0 +1,71 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/menuimg"
+    tools:context=".MainMenu" >
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="40dp" >
+  
+        <ImageButton
+            android:id="@+id/menuStart"
+            android:layout_width="70dp"
+            android:layout_height="30dp"
+            android:background="@drawable/play"
+            android:textColorHint="@null" />
+
+        <ImageButton
+            android:id="@+id/option"
+            android:layout_width="70dp"
+            android:layout_height="30dp"
+            android:layout_marginLeft="30dp"
+            android:background="@drawable/option" />
+
+        <ImageButton
+            android:id="@+id/menuHelp"
+            style="@drawable/bhelp"
+            android:layout_width="70dp"
+            android:layout_height="30dp"
+            android:layout_marginLeft="30dp"
+            android:background="@drawable/help" />
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/hp_1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:src="@drawable/hp_1" />
+
+    <ImageView
+        android:id="@+id/hp_3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:src="@drawable/hp_3" />
+
+    <ImageView
+        android:id="@+id/hp_4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:src="@drawable/hp_4" />
+
+    <ImageView
+        android:id="@+id/hp_2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:src="@drawable/hp_2" />
+
+</RelativeLayout>
