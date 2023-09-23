@@ -1,17 +1,27 @@
 # CrazyC
+![image](https://github.com/StevenLeeTW/CrazyC/assets/9196096/41c27045-990a-41ac-a7c3-e386513d30c5)
 
-¡mCrazy Countdown¡n
+ã€ŠCrazy Countdownã€‹
 
-°¸º¸·Q¥´µo®É¶¡ª±ª±¥dµPÃş¹CÀ¸¡A¦ı¬O¤S¤£·Qªá¤Ó¦h¤ß¤O¦b°ö¾i¥d¤ù¤W­±¶Ü¡H
-·Q¹Á¸Õ¦³§O©ó¶Ç²Î¼³§JµPªºµ¦²¤¥d¤ù¹CÀ¸¶Ü¡H
-¡mCrazy Countdown¡n¬O§Aªº¦n¿ï¾Ü¡I
+![image](https://github.com/StevenLeeTW/CrazyC/assets/9196096/cc67f3ba-09eb-4b08-a7fd-076d47f1b776)
 
-¹CÀ¸¯S¦â
-1.³W«hÃş¦üUNO¤ÎCrazy EightÂ²³æ¤W¤â¡I 
-2.¤£¦Pªº®ÄªG¥d¥i¥H¶i¦æ§ğÀ»¹ï¤â©Î¬O¨¾¿m§ğÀ»¡I
-3.±Ä¥Î¿n¤Àªº¤è¦¡¨Ó¨M³Ó­t¡I
-4.ºò´êªº¹CÀ¸¨B½Õ ³Ì³t¨M©w³Ó­t¡I¡I
+Introduction video: https://www.youtube.com/watch?v=mSCrz_F4QF4
 
+
+  
+å¶çˆ¾æƒ³æ‰“ç™¼æ™‚é–“ç©ç©å¡ç‰Œé¡éŠæˆ²ï¼Œä½†æ˜¯åˆä¸æƒ³èŠ±å¤ªå¤šå¿ƒåŠ›åœ¨åŸ¹é¤Šå¡ç‰‡ä¸Šé¢å—ï¼Ÿ  
+æƒ³å˜—è©¦æœ‰åˆ¥æ–¼å‚³çµ±æ’²å…‹ç‰Œçš„ç­–ç•¥å¡ç‰‡éŠæˆ²å—ï¼Ÿ  
+ã€ŠCrazy Countdownã€‹æ˜¯ä½ çš„å¥½é¸æ“‡ï¼    
+![image](https://github.com/StevenLeeTW/CrazyC/assets/9196096/f318813a-005d-429a-8dc0-f33969f3696b)
+  
+éŠæˆ²ç‰¹è‰²
+1.è¦å‰‡é¡ä¼¼UNOåŠCrazy Eightç°¡å–®ä¸Šæ‰‹ï¼ 
+2.ä¸åŒçš„æ•ˆæœå¡å¯ä»¥é€²è¡Œæ”»æ“Šå°æ‰‹æˆ–æ˜¯é˜²ç¦¦æ”»æ“Šï¼
+3.æ¡ç”¨ç©åˆ†çš„æ–¹å¼ä¾†æ±ºå‹è² ï¼
+4.ç·Šæ¹Šçš„éŠæˆ²æ­¥èª¿ æœ€é€Ÿæ±ºå®šå‹è² ï¼ï¼
+
+  
+![image](https://github.com/StevenLeeTW/CrazyC/assets/9196096/6893e5af-6526-43bd-b6f8-475113fdcd34)
 We hope the project will help you!
 
 If You want to play it , get it on Googleplay
@@ -19,6 +29,6 @@ https://play.google.com/store/apps/details?id=com.crazyc&hl=zh-TW
 
 CrazyC-Tamkang university IM SD Project 103
 
-»s§@¦¨­û¡G§õ­õ¾§ ³\ºû¤ª ¦ó¶{µ¾ ³\¯ª·ç  
+è£½ä½œæˆå“¡ï¼šæå“²å„’ è¨±ç¶­äº‘ ä½•é–”ç¿” è¨±ç¥–ç‘  
 
-«ü¾É±Ğ±Â¡G¸Ñ¿P»¨
+æŒ‡å°æ•™æˆï¼šè§£ç‡•è±ª
